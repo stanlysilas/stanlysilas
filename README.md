@@ -7,7 +7,14 @@
 
 I build, debug and explore software across application, operating system and infrastructure layers.
 
-[Portfolio](https://stanworks.dpdns.org) · [GitHub](https://github.com/stanlysilas) · [Repositories](https://github.com/stanlysilas?tab=repositories)
+<p>
+  <a href="https://stanworks.dpdns.org">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square" />
+  </a>
+  <a href="https://github.com/stanlysilas?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-111111?style=flat-square&logo=github" />
+  </a>
+</p>
 
 </div>
 
@@ -54,27 +61,25 @@ Developing a knowledge and content management platform, exploring product archit
 
 ---
 
-## Technologies
+## What I Work With
 
 **Languages**
 
-`Python` `Java` `Kotlin` `Dart` `JavaScript` `TypeScript` `C++` `Bash`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,dart,js,ts,bash,rust" />
+</p>
 
 **Application Development**
 
-`React` `Next.js` `Flutter` `Android SDK` `Node.js` `REST APIs`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,vscode,nodejs" />
+</p>
 
-**Systems & Platforms**
+**Systems & Infrastructure**
 
-`Linux` `Fedora` `GNOME` `AOSP` `LineageOS` `Linux Kernel Interfaces`
-
-**Infrastructure & Tools**
-
-`Docker` `Podman` `Git` `GitHub` `SSH` `Cloudflare Tunnel` `Firebase` `Supabase`
-
-**Self-hosted & AI**
-
-`Nextcloud` `Immich` `Ollama` `Open WebUI`
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,firebase,supabase" />
+</p>
 
 ---
 
