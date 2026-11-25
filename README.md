@@ -1,146 +1,113 @@
+
 <div align="center">
 
-# Hi, I'm Stanly Silas 👋
+# Stanly Silas
 
-### Software Engineer • Android Systems Developer • Full Stack Developer
+**Software Engineer | Systems, Applications & Infrastructure**
 
-Building privacy-focused systems, beautiful user experiences, and AI-powered products.
+I build, debug and explore software across application, operating system and infrastructure layers.
 
-<p>
-  <a href="https://stanlysilas.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/stanlysilas?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20Repositories-Explore-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[Portfolio](https://stanworks.dpdns.org) · [GitHub](https://github.com/stanlysilas) · [Repositories](https://github.com/stanlysilas?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 Master's in Computer Science
-- 📱 Android Systems & ROM Developer
-- ⚛️ Full Stack Developer
-- 🤖 AI Application Developer
-- 🐧 Linux Enthusiast
-- 🌱 Passionate about open source, privacy, clean design and scalable software.
+I'm a Computer Science postgraduate and software engineer interested in understanding how software works, from user-facing applications to operating systems and infrastructure.
 
----
-
-# 🚀 Featured Projects
-
-## 🌸 BloomOS
-
-A privacy-focused Android operating system built on AOSP with an emphasis on performance, security, maintainability and long-term device support.
-
-**Technologies**
-
-`Android` • `AOSP` • `Linux Kernel` • `C/C++` • `OTA` • `SELinux`
+- Building Linux-native software and hardware integrations.
+- Exploring Android internals, AOSP and operating system development.
+- Developing applications, developer tools and software products.
+- Running and maintaining a self-hosted Linux infrastructure.
+- Interested in open-source software, debugging and engineering problems.
 
 ---
 
-## 🌼 Bloom
+## Selected Projects
 
-A modern productivity platform focused on helping users organize work, build habits and stay productive through a clean, intuitive experience.
+### Acer Control Center
+**Linux · Python · Kernel Interfaces · Hardware Integration**
 
-**Technologies**
+A Linux-native control center for Acer gaming laptops, integrating hardware controls, monitoring and RGB functionality. Developed across application and system-level components, with an active user base.
 
-`Flutter` • `Firebase` • `Dart` • `Material Design`
+### BloomOS
+**Android · AOSP · LineageOS · C++ · Java**
 
----
+A privacy-focused Android operating system built from source, with a focus on security, transparency, customisation and maintainability.
 
-# 💻 Tech Stack
+### AetherOS
+**Fedora · GNOME · Python · GTK · Bash**
 
-### Languages
+A customised Linux environment built around a stripped-down GNOME desktop and a custom control center for system configuration.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,ts,python,bash" />
-</p>
+### StanLab
+**React · Linux · Self-hosted Infrastructure**
 
-### Frontend
+A custom dashboard built to monitor and manage services running on my personal Linux server.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,html,css" />
-</p>
+### Chronicle
+**React · Software Product Development · Infrastructure**
 
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" />
-</p>
+Developing a knowledge and content management platform, exploring product architecture, application development and infrastructure.
 
 ---
 
-# 📊 GitHub Statistics
+## Technologies
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stanlysilas&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanlysilas&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+**Languages**
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stanlysilas&theme=transparent&hide_border=true"/>
-</p>
+`Python` `Java` `Kotlin` `Dart` `JavaScript` `TypeScript` `C++` `Bash`
 
----
+**Application Development**
 
-# 📈 Contribution Graph
+`React` `Next.js` `Flutter` `Android SDK` `Node.js` `REST APIs`
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stanlysilas&theme=github-compact&hide_border=true"/>
-</p>
+**Systems & Platforms**
 
----
+`Linux` `Fedora` `GNOME` `AOSP` `LineageOS` `Linux Kernel Interfaces`
 
-# 🏆 GitHub Trophies
+**Infrastructure & Tools**
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=stanlysilas&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
-</p>
+`Docker` `Podman` `Git` `GitHub` `SSH` `Cloudflare Tunnel` `Firebase` `Supabase`
+
+**Self-hosted & AI**
+
+`Nextcloud` `Immich` `Ollama` `Open WebUI`
 
 ---
 
-# 📫 Connect
+## My Homelab
 
-<p align="center">
-<a href="https://stanlysilas.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+I run a self-hosted Linux server on a Lenovo Legion, hosting services for personal cloud storage, photo management, local AI inference and other experiments.
 
-<a href="https://github.com/stanlysilas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+| Service | Purpose |
+|---|---|
+| Nextcloud | Personal cloud |
+| Immich | Photo management |
+| Ollama + Open WebUI | Local LLM inference |
+| Docker / Podman | Containerised services |
+| Cloudflare Tunnel | Remote access |
+| StanLab | Custom server dashboard |
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stanlysilas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanlysilas&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🌐 Explore More
+**Building, breaking, debugging and understanding software.**
 
-For detailed case studies, project showcases and the latest work, visit:
-
-### **https://stanlysilas.github.io**
-
-Or browse all open-source repositories on GitHub.
-
----
-
-*"Building software that balances engineering excellence, thoughtful design and meaningful user experiences."*
+[Explore my portfolio](https://stanworks.dpdns.org)
 
 </div>
